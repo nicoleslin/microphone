@@ -1,0 +1,25 @@
+Circuit: * C:\Users\aidan\Desktop\Projects\Microphone\Controlled\simulation\op_point.asc
+
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 23 14:59:07 2022
+Total elapsed time: 0.670 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 96530
+traniter = 96525
+tranpoints = 40472
+accept = 24371
+rejected = 16101
+matrix size = 138
+fillins = 151
+solver = Normal
+Thread vector: 4.5/2.6[3] 1.1/0.9[3] 1.0/0.8[3] 0.3/0.7[1]  2592/500
+Matrix Compiler1: 15.23 KB object code size  2.6/0.9/[0.8]
+Matrix Compiler2: 13.95 KB object code size  0.7/0.8/[0.6]
+
